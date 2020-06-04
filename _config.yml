@@ -1,13 +1,15 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: Pop Culture Parade
+author: Chris Manning
+email: chris@chrismanningdigital.com
+description: > 
+  All things Schitt's Creek, Star Wars, Nintendo, and any and all
+  other pop culture topics that I care to write about. I'm a
+  voracious consumer of pop culture, so to list all the things
+  would take far too much space.
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: chrismanning
+github_username:  LMNOPx
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: true
+theme: minima
